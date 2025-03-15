@@ -19,7 +19,3 @@ Using GPT-4o API in conjunction with Whisper API and Google TTS we implemented a
 ### Technology stack:
 
 Strictly bashed wrapped with python scripts in order for it to be easily implemented on our 3D designed prototype.
-
-### Proof of concept prototype:
-
-![altimg](https://i.postimg.cc/4Nd6SmRw/demo.png)
